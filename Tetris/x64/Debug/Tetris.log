@@ -1,0 +1,13 @@
+﻿  block.cpp
+C:\Users\W T\Downloads\src\block.cpp(58,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  blocks.cpp
+  colors.cpp
+  game.cpp
+  grid.cpp
+  main.cpp
+C:\Users\W T\Downloads\src\main.cpp(48,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\W T\Downloads\src\main.cpp(56,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  position.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Tetris.vcxproj -> C:\Users\W T\Documents\Visual Studio 2022\Tetris\x64\Debug\Tetris.exe
