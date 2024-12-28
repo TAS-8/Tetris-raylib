@@ -1,7 +1,11 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\W T\\Documents\\Visual Studio 2022\\Tetris\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA2CC35-8FF3-45F6-A37E-5D8F188F02FC}|Tetris.vcxproj|C:\\Users\\W T\\Downloads\\src\\colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +13,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 301,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "colors.cpp",
+              "DocumentMoniker": "C:\\Users\\W T\\Downloads\\src\\colors.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\src\\colors.cpp",
+              "ToolTip": "C:\\Users\\W T\\Downloads\\src\\colors.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\src\\colors.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-28T10:15:32.366Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
